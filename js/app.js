@@ -20,3 +20,17 @@ while(numbers < 100){
     numbers = numbers + 1;
 }
 
+
+let players = [`Andrea`, `Miki`, `Sunny`];
+  
+
+
+let counters = 0;
+while(counters < players.length){
+    console.log(players[counters]);
+    counters = counters + 1;
+}
+
+
+
+

@@ -32,5 +32,13 @@ while(counters < players.length){
 }
 
 
+let points = [100, 50, 89];
+
+for(let counting = 0; counting < points.length; counting = counting + 1){
+    console.log(counting);
+}
+
+
+
 
 
